@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Keyboard",
+    "price": 12000,
+    "id": "2af9dba6"
+  },
+  {
+    "name": "Laptop",
+    "price": 12000,
+    "id": "bc255733"
+  },
+  {
+    "name": "Mouse",
+    "price": 12000,
+    "id": "884b8b20"
+  },
+  {
+    "name": "Painting",
+    "price": 12000,
+    "id": "1dc0de8b"
+  }
+]
