@@ -25,13 +25,13 @@ All code from my youtube videos
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>3</td>
+<td>Styling React Components: Styled Components & CSS Modules</td>
 <td>
-<a href=""></a>
+<a href="https://www.youtube.com/watch?v=WdQtepxpx8k">Youtube Video: Styling Components in React</a>
 </td>
 <td>
-<a href=""></a>
+<a href="react-js-tutorials/styling-components">Styling React Components</a>
 </td>
 </tr>
 </table>
